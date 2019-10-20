@@ -1,0 +1,48 @@
+.button1 {
+    background-color: #818182;
+    border: 1px;
+    border-radius: 50px;
+    color: white;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.button2 {
+    background-color: #856404;
+    border: 1px;
+    border-radius: 50px;
+    color: white;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.restartBtn {
+
+    background-color: #e83e8c;
+    border: 1px;
+    border-radius: 50px;
+    color: white;
+    padding: 25px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    align: center;
+    margin-left: 10%;
+}
+
+
+.tableMancala {
+    width: 70%;
+    align: center;
+    background-color: #ffdf7e;
+    border: #ffdf7e;
+    border: 2px;
+    border-radius: 50px;
+    border: 1px;
+    color: white;
+    margin: 10px;
+}
